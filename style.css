@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+hr{
+    border-top: 2px solid blue;
+    
+}
+#name{
+    padding: 20px;
+    border: solid 2px black;
+    margin: 300px;
+    margin-top:50px;
+    margin-bottom: 100%;
+
+}
+h3{
+    text-align:end;
+    font-weight: lighter;
+
+}    
+h2{
+    color: blue;
+
+}
+h5{
+    font-size: large;
+    word-spacing: 6px;
+    font-style: andes;
+    font-weight: lighter;
+}
+
